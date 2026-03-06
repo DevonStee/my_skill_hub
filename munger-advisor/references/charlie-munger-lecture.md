@@ -29,7 +29,7 @@ THINGS TEND TOWARD WINNER TAKE ALL.
 THEREFORE, IT PAYS TO BE #1, #2 OR OUT. .................. 11
 HOWEVER, BIGGER ISN'T ALWAYS BETTER -
 
--36-
+
 
 THERE ARE ALSO DISADVANTAGES OF SCALE. .................. 12
 A CASE STUDY IN ECONOMIES VS. DISECONOMIES
@@ -62,7 +62,7 @@ THEN YOU'RE MAKING A BIG MISTAKE. .................. 26
 MAKE A FEW GREAT INVESTMENTS
 AND SIT ON YOUR ASSETS.... .................. 27
 
--37-
+
 
 AND THERE'S THE ULTIMATE NO-BRAINER
 - LIKE FINDING MONEY IN THE STREET. .................. 28
@@ -97,7 +97,7 @@ So, emphasizing what I sometimes waggishly call remedial worldly wisdom, I'm goi
 by waltzing you through a few basic notions.
 WITHOUT MODELS FROM MULTIPLE DISCIPLINES,
 
--38-
+
 
 YOU'LL FAIL IN BUSINESS AND IN LIFE.
 -------------------------------------------------------------------------------Without a latticework of models, you'll fail in school and life.
@@ -131,7 +131,7 @@ YOU'RE GIVING A HUGE ADVANTAGE TO OTHERS
 IF YOU DON'T LEARN THIS SIMPLE TECHNIQUE.
 -------------------------------------------------------------------------------The great useful model is permutations & combinations.
 
--39-
+
 
 Munger: First there's mathematics. Obviously, you've got to he able to handle numbers and
 quantities - basic arithmetic.
@@ -168,7 +168,7 @@ combinations....
 NEXT, YOU HAVE TO KNOW ACCOUNTING
 - ALONG WITH ITS LIMITATIONS.
 
--40-
+
 
 -------------------------------------------------------------------------------Double-entry bookkeeping was a hell of an invention.
 Munger: Obviously, you have to know accounting. It's the language of practical business life. It
@@ -202,7 +202,7 @@ who was going to do what, where, when and why. And if you wrote a letter or dire
 Braun Company telling somebody to do something, and you didn't tell him why, you could get
 fired. In fact, you would get fired if you did it twice.
 
--41-
+
 
 If you tell people why, they'll be much more likely to comply.
 Munger: You might ask why that is so important? Well, again that's a rule of psychology. Just as
@@ -235,7 +235,7 @@ And by the way, that works well enough. But you have to understand that bell-sha
 least roughly as well as I do.
 Engineering has more than its share of powerful models....
 
--42-
+
 
 Munger: And, of course, the engineering idea of a backup system is a very powerful idea. The
 engineering idea of breakpoints - that's a very powerful model, too. The notion of a critical mass
@@ -269,7 +269,7 @@ Very eminent places miseducate people like you and me.
 Munger: So the most useful and practical part of psychology - which I personally think can be
 taught to any intelligent person in a week - is ungodly important. And nobody taught it to me by
 
--43-
+
 
 the way. I had to learn it later in life, one piece at a time. And it was fairly laborious. It's so
 elementary though that, when it was all over, I just felt like a total horse's ass.
@@ -303,7 +303,7 @@ ORGANISMS, PEOPLE & COMPANIES WHO SPECIALIZE
 CAN GET TERRIBLY GOOD IN THEIR LITTLE NICHE.
 -------------------------------------------------------------------------------Like it or not, the economy is a lot like an ecosystem.
 
--44-
+
 
 Munger: Now we come to another somewhat less reliable form of human wisdom microeconomics. And here, I find it quite useful to think of a free market economy - or partly
 free market economy - as sort of the equivalent of an ecosystem....
@@ -339,7 +339,7 @@ bigger, the amount of steel you use in the surface goes up with the square and t
 goes up with the cube. So as you increase the dimensions, you can hold a lot more volume per
 unit area of steel.
 
--45-
+
 
 And there are all kinds of things like that where the simple geometry - the simple reality - gives
 you an advantage of scale.
@@ -374,7 +374,7 @@ and rationally think, "Gee, I don't know much about this. They know more than I 
 why shouldn't I follow them?"
 All told, your advantages can add up to one tough moat.
 
--46-
+
 
 Munger: The social proof phenomenon which comes right out of psychology gives huge
 advantages to scale - for example, with very wide distribution, which of course is hard to get.
@@ -407,7 +407,7 @@ civilization either, because I think that General Electric is stronger for havin
 HOWEVER, BIGGER ISN'T ALWAYS BETTER THERE ARE ALSO DISADVANTAGES OF SCALE.
 -------------------------------------------------------------------------------Bigger isn't always better. Sometimes, it's just the reverse....
 
--47-
+
 
 Munger: And there are also disadvantages of scale. For example, we - by which I mean
 Berkshire Hathaway - are the largest shareholder in Capital Cities/ABC. And we had trade
@@ -444,7 +444,7 @@ layers of management and associated costs that nobody needs. Then, while people 
 all these layers. it takes forever to get anything done. They're too slow to make decisions and
 nimbler people run circles around them.
 
--48-
+
 
 The constant curse of scale is that it leads to big, dumb bureaucracy - which, of course, reaches
 its highest and worst form in government where the incentives are really awful. That doesn't
@@ -481,7 +481,7 @@ For example, he gave something like 20% of CBS to the Dumont Company for a telev
 manufacturer which was destined to go broke. I think it lasted all of two or three years or
 something like that. So very soon after he'd issued all of that stock, Dumont was history. You get
 
--49-
+
 
 a lot of dysfunction in a big fat, powerful place where no one will bring unwelcome reality to the
 boss.
@@ -517,7 +517,7 @@ He played the chain store game harder and better than anyone else. Walton invent
 nothing. But he copied everything anybody else ever did that was smart - and he did it with more
 fanaticism and better employee manipulation. So he just blew right by them all.
 
--50-
+
 
 And he had a very shrewd strategy....
 Munger: He also had a very interesting competitive strategy in the early days. He was like a prize
@@ -552,7 +552,7 @@ enough to prevent Sears from losing heavily to Wal-Mart and other similar retail
 A MODEL WE'VE HAD TROUBLE WITH ANTICIPATING COMPETITION AND ITS EFFECTS.
 -------------------------------------------------------------------------------In some markets, no one makes out. In others, everyone does.
 
--51-
+
 
 Munger: Here's a model that we've had trouble with. Maybe you'll be able to figure it out better.
 Many markets get down to two or three big competitors - or five or six. And in some of those
@@ -590,7 +590,7 @@ adjustment to market capitalism. I think you'd have to know the people involved 
 understand what was happening.
 A FEW WORDS ON PATENTS,
 
--52-
+
 
 TRADEMARKS AND FRANCHISES.
 -------------------------------------------------------------------------------Patents haven't made people much money - until recently.
@@ -623,7 +623,7 @@ And Warren said, "Gee, I hope this doesn't work - because if it does, I'm going 
 And he meant it.
 Advances in commodity businesses go to buyers alone.
 
--53-
+
 
 Munger: What was he thinking? He was thinking, "It's a lousy business. We're earning
 substandard returns and keeping it open just to be nice to the elderly workers. But we're not
@@ -660,7 +660,7 @@ IS EXACTLY WHAT YOU'RE LOOKING FOR.
 Munger: Then there's another model from microeconomics which I find very interesting. When
 technology moves as fast as it does in a civilization like ours, you get a phenomenon which I call
 
--54-
+
 
 competitive destruction. You know, you have the finest buggy whip factory and all of a sudden
 in comes this little horseless carriage. And before too many years go by, your buggy whip
@@ -697,7 +697,7 @@ Munger: However, Berkshire Hathaway, by and large, does not invest in these peop
 "surfing" on complicated technology. After all, we're cranky and idiosyncratic - as you may have
 noticed.
 
--55-
+
 
 And Warren and I don't feel like we have any great advantage in the high-tech sector. In fact, we
 feel like we're at a big disadvantage in trying to understand the nature of technical developments
@@ -736,7 +736,7 @@ TO A MAN WITH PROFICIENCY IN MATH,
 EFFICIENT MARKET THEORY LOOKS LIKE A NAIL.
 --------------------------------------------------------------------------------
 
--56-
+
 
 On to dessert - the selection of common stocks....
 Munger: Well, so much for the basic microeconomic models, a little bit of psychology, a little bit
@@ -772,7 +772,7 @@ Again, to the man with a hammer, every problem looks like a nail. If you're good
 higher mathematics in a consistent way, why not make an assumption which enables you to use
 your tool?
 
--57-
+
 
 BETTING ON HORSES AND PICKING STOCKS
 HAVE MORE THAN A LITTLE IN COMMON.
@@ -810,7 +810,7 @@ that big 17% handle, lots of people would regularly be beating lots of other peo
 races. It's efficient, yes. But it's not perfectly efficient. And with enough shrewdness and
 fanaticism, some people will get better results than others.
 
--58-
+
 
 It ain't easy, but it's possible, to outperform in stocks, too.
 Munger: The stock market is the same way - except that the house handle is so much lower. If
@@ -844,7 +844,7 @@ WHAT WINS ARE INCENTIVES.
 Munger: That is a very simple concept. And to me it's obviously right - based on experience not
 only from the pari-mutuel system, but everywhere else.
 
--59-
+
 
 And yet, in investment management, practically nobody operates that way. We operate that way
 - I'm talking about Buffett and Munger. And we're not alone in the world. But a huge majority of
@@ -879,7 +879,7 @@ I think the reason why we got into such idiocy in investment management is best 
 story that I tell about the guy who sold fishing tackle. I asked him, "My God, they're purple and
 green. Do fish really take these lures?" And he said, "Mister, I don't sell to fish."
 
--60-
+
 
 Investment managers are in the position of that fishing tackle salesman. They're like the guy who
 was selling salt to the guy who already had too much salt. And as long as the guy will buy salt,
@@ -912,7 +912,7 @@ available at one-third of its book value. In contrast, IBM in its heyday might b
 book value. So it's just like the pari-mutuel system. Any damn fool could plainly see that IBM
 had better business prospects than the railroad. But once you put the price into the formula, it
 
--61-
+
 
 wasn't so clear anymore what was going to work best for a buyer choosing between the stocks.
 So it's a lot like a pari-mutuel system. And, therefore, it gets very hard to beat.
@@ -948,7 +948,7 @@ Munger: And in those days, working capital actually belonged to the shareholders
 employees were no longer useful, you just sacked them all, took the working capital and stuck it
 in the owners' pockets. That was the way capitalism then worked.
 
--62-
+
 
 Nowadays, of course, the accounting is not realistic - because the minute the business starts
 contracting, significant assets are not there. Under social norms and the new legal rules of the
@@ -986,7 +986,7 @@ of options all the time. That was a very significant mental construct. And it's 
 Buffett, for instance, over his whole adult lifetime.
 GRAHAM WASN'T TRYING TO PLAY OUR GAME
 
--63-
+
 
 - I.E., PAYING UP FOR BETTER BUSINESSES.
 -------------------------------------------------------------------------------Ben Graham wasn't trying to do what we did.
@@ -1021,7 +1021,7 @@ Munger: [Most investment managers are] in a game where the clients expect them t
 about a lot of things. We didn't have any clients who could fire us at Berkshire Hathaway. So we
 didn't have to be governed by any such construct. And we came to this notion of finding a
 
--64-
+
 
 mispriced bet and loading up when we were very confident that we were right. So we're way less
 diversified. And I think our system is miles better.
@@ -1056,7 +1056,7 @@ I'd say that Berkshire Hathaway's system is adapting to the nature of the invest
 really is.
 The trick is getting into better businesses.
 
--65-
+
 
 Munger: We've really made the money out of high quality businesses. In some cases, we bought
 the whole business. And in some cases, we just bought a big block of stock. But when you
@@ -1092,7 +1092,7 @@ more insightful person and a better manager than his peers in other companies. N
 took tremendous genius to understand that Disney had basic momentums in place which are very
 powerful and that Eisner and Wells were very unusual managers.
 
--66-
+
 
 So you do get an occasional opportunity to get into a wonderful business that's being run by a
 wonderful manager. And, of course, that's hog heaven day. If you don't load up when you get
@@ -1129,7 +1129,7 @@ of at the end, your annual result goes down to 6.5%. So you add nearly 2% of aft
 annum if you only achieve an average return by historical standards from common stock
 investments in companies with low dividend payout ratios.
 
--67-
+
 
 Tax-related motivations have led to many big boners.
 Munger: But in terms of business mistakes that I've seen over a long lifetime, I would say that
@@ -1164,7 +1164,7 @@ AND THERE'S THE ULTIMATE NO-BRAINER
 - LIKE FINDING MONEY IN THE STREET.
 -------------------------------------------------------------------------------The ultimate no-brainer....
 
--68-
+
 
 Munger: Within the growth stock model, there's a sub-position: There are actually businesses.
 that you will find a few times in a lifetime, where any manager could raise the return enormously
@@ -1199,10 +1199,10 @@ going to end up with one winner and a management with a lot of integrity and int
 one was a real dream. They're very high class people - the Katharine Graham family. That's why
 it was a dream - an absolute, damn dream.
 
--69-
+
 
 Of course, that came about back in '73-'74. And that was almost like 1932. That was probably a
-once-in-40- years-type denouement in the markets. That investment's up about 50 times over our
+once-in years-type denouement in the markets. That investment's up about 50 times over our
 cost. If I were you, I wouldn't count on getting any investment in your lifetime quite as good as
 The Washington Post was in '73 and '74.
 But it doesn't have to be that good to take care of you.
@@ -1236,7 +1236,7 @@ THE INVESTMENT MANAGEMENT BUSINESS:
 DON'T PRACTICE PSYCHOLOGICAL DENIAL
 --------------------------------------------------------------------------------
 
--70-
+
 
 Investment managers as a whole don't add any value....
 Munger: Finally, I'd like to once again talk about investment management. That is a funny
@@ -1262,4 +1262,4 @@ I think it's hard to provide a lot of value added to the investment management c
 impossible.
 --OID
 
--71-
+
